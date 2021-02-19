@@ -44,5 +44,5 @@ function start() {
 
 start()
 console.log('------------------------------------------------')
-lolcatjs.fromString('[DEV] ANDRE')
+lolcatjs.fromString('[DEV] NAZWAS')
 
